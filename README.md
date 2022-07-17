@@ -6,3 +6,5 @@
 >Once a new task is added, we’ll create a new todo object, push it into the array and render the value of the text property on the screen. When a todo is marked as completed, we’ll toggle the checked property to true, and when the user deletes a todo, we’ll locate the todo item in the array using its id and remove it.
 
 ![output](https://user-images.githubusercontent.com/83532122/179412935-4650eae4-e845-483b-9c9f-90576a7c8380.jpeg)
+
+![output 2](https://user-images.githubusercontent.com/83532122/179414109-0d3a7e32-ed22-4cdb-ba2b-9c041d84ac4e.jpeg)
