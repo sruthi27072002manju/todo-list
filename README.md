@@ -1,5 +1,5 @@
 # Todo-list
->LGM TASK1 
+
 
 >Its a simple to-do list app using Html,css and javascript .The first thing we need to do is set up an array where we’ll place the todo list items. Each todo item will be an object with three properties: text, a string which holds whatever the user types into the text input, checked, a boolean which helps us know if a task has been marked completed or not, and id, a unique identifier for the item.
 
